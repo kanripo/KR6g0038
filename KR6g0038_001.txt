@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:05:01.786057
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:11
 #+TITLE: 迦葉赴佛般涅槃經
 #+PROPERTY: CBETA_ID T12n0393
 #+PROPERTY: ID KR6g0038
@@ -118,7 +118,7 @@ No. 393¶
 　起分是生死，
 　佛以不復愁，¶
 　法身慧常存，
-　莫呼永泥洹。」
+　莫呼永泥洹。」」
 #+END_VERSE
-」¶
+¶
 《迦葉赴佛涅槃經》
